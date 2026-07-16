@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 
-Liberty City Stories converted to **open.mp** by **spicybung**.
+Liberty City Stories converted to **open.mp** by **spicybung**; unfortunately, as it currently stands, there is too many custom objects for SAMP 0.3DL.
 
 ## Configuration
 
