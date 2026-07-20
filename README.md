@@ -36,5 +36,6 @@ After saving `config.json`, restart your open.mp server. The LCS2OMP filterscrip
 
 ## Acknowledgements
 
-+ The open.mp developer team, for their work in making a new SAMP, and inspiration
-+ The GTA Modding community
++ The open.mp developer team, for their work in making a new SAMP and increasing its capabilities - creating the inspiration to do this
++ The SAMP community, which deserves long overdue upgrades
++ The GTA Modding community, for the initial inspiration way back as a kid
